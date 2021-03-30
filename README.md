@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tonny221
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning HTML5, Js, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anthonny14gabriell@gmail.com
 
