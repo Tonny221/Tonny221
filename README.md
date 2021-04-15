@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tonny221
-- 👀 I’m interested in ...
+- 👀 I’m interested in Front-End
 - 🌱 I’m currently learning HTML5, Js, CSS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Front-End projects.
 - 📫 How to reach me anthonny14gabriell@gmail.com
 
 <!---
