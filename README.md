@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Tonny221
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning HTML5, Js, CSS
-- 💞️ I’m looking to collaborate on Front-End projects.
-- 📫 How to reach me anthonny14gabriell@gmail.com
+# Hi! I'm Tonny, Front-End developer <h1>
+
+- 👀 I’m interested to collaborate width Front-End projects.
+- 🌱 I’m currently learning React JS.
+- 💞️ I’m looking to get hired as a Front-End developer.
+
+<div>
+
+</div>
 
 <!---
 Tonny221/Tonny221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
