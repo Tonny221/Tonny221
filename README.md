@@ -21,7 +21,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/anthonny-gabriell-marins-alves-0a4b34216/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tonny221&count_private=true&show_icons=true&theme=synthwave&custom_title=Tonny's Github Stats&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tonny221&count_private=true&show_icons=true&theme=synthwave&custom_title=Tonny's Github Stats&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonny221&layout=compact&theme=synthwave">
 </div>
   
