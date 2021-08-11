@@ -12,8 +12,8 @@
 <br>
 
 - 👀 I’m interested to learn React JS.
-- 🔥 I’m currently working in individual projects.
-- 💞 I’m looking to contribute in open source projects.
+- 🔥 I’m currently working on individual projects.
+- 💞 I’m looking to contribute on open source projects.
 - 😁 Very excited to learn more. Please leave your feedback!
 - 🥅 2021 goals: Master HTML5, CSS3, Vanilla JS and React JS.  
 
