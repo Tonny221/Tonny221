@@ -15,7 +15,7 @@
 - 🔥 I’m currently working on individual projects.
 - 💞 I’m looking to contribute on open source projects.
 - 😁 Very excited to learn more. Please leave your feedback!
-- 🥅 2021 goals: Master HTML5, CSS3, Vanilla JS and React JS.  
+- 🥅 2022 goals: Learn Ruby and Ruby on Rails.  
 
 <br>
 
