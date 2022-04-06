@@ -1,4 +1,4 @@
-# **Hi! I'm Tonny, Front-End developer**
+# **Hi! I'm Tonny**
 ### Brazilian programmer
 
 <div>
