@@ -1,5 +1,6 @@
 # **Hi! I'm Tonny**
 ### Brazilian programmer
+#### Front-End Developer
 
 <div>
   <a href="https://www.instagram.com/tonnygabriell/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -10,9 +11,3 @@
 </div>
 
 <br>
-
-- 👀 I’m interested to learn React JS.
-- 🔥 I’m currently working on individual projects.
-- 💞 I’m looking to contribute on open source projects.
-- 😁 Very excited to learn more. Please leave your feedback!
-- 🥅 2022 goals: Learn Ruby and Ruby on Rails.  
