@@ -11,3 +11,7 @@
 </div>
 
 <br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tonny221&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonny221&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
